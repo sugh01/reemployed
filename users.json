@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "newpassword123"
+  },
+  {
+    "id": "2",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "password123"
+  },
+  {
+    "id": "3",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "password123"
+  },
+  {
+    "id": "4",
+    "name": "sg",
+    "email": "s@s.com",
+    "password": "$2a$10$R.KdwXpcstXycPYdcS70mua6s2SdJiXMB1gUUAc0p42B8N3MQuHdm"
+  },
+  {
+    "id": "5",
+    "name": "string",
+    "email": "string",
+    "password": "$2a$10$viCnZNjLH/mwclA5C6sw7u/NwO6RRElJQXZKoTNhP0iA9t13JqPvS"
+  }
+]
